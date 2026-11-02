@@ -1,0 +1,34 @@
+{
+  "release": "T1289",
+  "built_at": "2026-11-02T04:29:35.735277+00:00",
+  "source_head": "dcb851c69dc3ea445b6d41f06fc178c2eef6b146",
+  "source_dirty": true,
+  "adapter_sha256": "23e859ff581164c8db2589a3d5e09e8ce2fc7c54310b62426c3e0b7d5f7f8a76",
+  "models": {
+    "03_gardener": {
+      "character.glb": "57158ae30f7347f7a4023c1e4e4584974f7ad5546111aacc2fb3107d747a8041",
+      "run.json": "68ebcb4910ccc552d3b630abb21ea09575027f0348845777392d212d89934ae0",
+      "walk.json": "3523a093e0d7e737cb882020de056c6d31ff72b23bd54ac165ced601ed90dc61"
+    },
+    "01_rancher": {
+      "character.glb": "665cc8836dfbdaa05bd3e09d4c581a2afe0e46f0a4956dbe7c9c25a4798cca93",
+      "run.json": "82a7a42be5599ca6610b5a28b8ceed29c7ee613b1fd1856f5f49f26b979b8985",
+      "walk.json": "b1099d58ce2fbe8922c9dd30d6bc1d7b97cff9e59fe5b4d10083dbf120e4746a"
+    },
+    "02_sunny_farmer": {
+      "character.glb": "7196b2e01ceb665d63e8f76191daf094f31aa794309ec52527558fb4d310d9ea",
+      "run.json": "63a79fc90b4c25779cfa2571e86de615db413e78114b9cd152e7c9beeaef5801",
+      "walk.json": "5dd1c9e318f09c65fce356daa6dff836727d1caf7106ebae4f9dd8e970b6fdab"
+    },
+    "04_country_woman": {
+      "character.glb": "b94050835b2f58a6d94616e9a9bbf3208472485c3b0157e087860da39256eb2b",
+      "run.json": "cd8bed741067368bdd4c69bbad633bf4e94a5c7e0a8631b2165079746640e7fb",
+      "walk.json": "d868e4386516861f95de45accd107c323aca92e1a56e5e625b01e0c88351d07a"
+    }
+  },
+  "bundles": {
+    "assets/index-B0lDvkFg.css": "b2f4aa3c6336c3f07cdd3cde6a724a211e30560c6a7534c4c7522f28ac26d1f8",
+    "assets/index-BIjJN9HG.js": "d9aca90b41708532bc07351ee30c11503a93eea0d7384e7b3a800f4d29b1bb65",
+    "assets/vrmCrew-Cr5z5cL1.js": "d2cfb1cae36b1a308206ce8ea5e43a95efc87a695fe1d36ac72cc573e5eda8dd"
+  }
+}
