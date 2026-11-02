@@ -1,11 +1,11 @@
 {
-  "release": "T1338",
-  "stage": "1-3",
-  "built_at": "2026-11-02T11:21:17.072439+00:00",
+  "release": "T1350",
+  "stage": "1-4",
+  "built_at": "2026-11-02T12:47:20.531581+00:00",
   "source_head": "dcb851c69dc3ea445b6d41f06fc178c2eef6b146",
   "source_dirty": true,
   "adapter_sha256": "0979ec8161b62a4699f8416dc618d5094507f5069f278a1a4c1a400eaab85c0a",
-  "sim_sha256": "7d43908245e50afaab6e1be5e2cbb5e6e5a7f5b8e307ee37fc8a32f2910def81",
+  "sim_sha256": "e2990dc0b71f2fcd2ab45307bc615846e999cd5af252fe9aab8b5b1c5bc53366",
   "production_debug": false,
   "models": {
     "03_gardener": {
@@ -30,8 +30,8 @@
     }
   },
   "bundles": {
-    "assets/index-B2zrawW2.css": "7b994c923356134db68f98700bb310be25bd2660dad84e098c75c34122d6d1e7",
-    "assets/index-DoM8PYYt.js": "0c48df14fe0cc83be227d03b0455761814f189496c7ea3fb7368ba77f3c367d4",
-    "assets/vrmCrew-Bld_zh6Y.js": "39e87641dfdefbfc0013a127a9f4c73a8fefc83281659002edd94b37f2934814"
+    "assets/index-DxaEXiJl.css": "cc2e59281d09a8a105e673660d8abfceecf1866425f050e7db68c8a973b236f5",
+    "assets/index-DzPG_uBV.js": "fcd8e55d31910abff99751b30c39cb2f0b3e8b1251b4b409cb6bc2bff89d83da",
+    "assets/vrmCrew-CBRuWSSa.js": "c0a3ec76425d4eb1b9862b13c0a8bc9f77cf3d690a25b2417f07d8bfe92835eb"
   }
 }
