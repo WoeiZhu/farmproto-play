@@ -1,11 +1,11 @@
 {
-  "release": "T1304",
-  "stage": "0",
-  "built_at": "2026-11-02T09:17:15.308439+00:00",
+  "release": "T1313",
+  "stage": "1-1",
+  "built_at": "2026-11-02T09:48:39.907446+00:00",
   "source_head": "dcb851c69dc3ea445b6d41f06fc178c2eef6b146",
   "source_dirty": true,
   "adapter_sha256": "0979ec8161b62a4699f8416dc618d5094507f5069f278a1a4c1a400eaab85c0a",
-  "sim_sha256": "db9046b42b293a9d2f54a4fd64a33d9da34573c9d59f834b312e7811ef711a8d",
+  "sim_sha256": "40d7c68f1df636c208465b043a75c83ac68f86057e1db82f70e9553faae8adb8",
   "production_debug": false,
   "models": {
     "03_gardener": {
@@ -30,8 +30,8 @@
     }
   },
   "bundles": {
-    "assets/index-CxO85pSd.css": "77a1d994636363f906dceb34128da3d913b2ac0bb5e2978624d225feeff3c75d",
-    "assets/index-DocaV-bx.js": "54cad3caec4e3a1ddd8737bac2a6247ef4a393767551f42d2f47e50ee2664095",
-    "assets/vrmCrew-DoNBGvJs.js": "7e373e1cdf3f8e948ef0913cc6617c972dd7be5153e518bed308f44597b8004d"
+    "assets/index-DVWRmx2B.js": "b61176c7a54e64dfb534432a812550217adac4eefb9027b088f1f660667ff870",
+    "assets/index-gQQAlfM_.css": "d80ea64cf9abf8cc6e100c4fec823b920786604703edf5af7f24a92523c52412",
+    "assets/vrmCrew-C1FeDBAp.js": "727b8f9686928db98b58b05b0ce137762737e0490e714d62c5720ec13857b841"
   }
 }
