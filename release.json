@@ -1,9 +1,12 @@
 {
-  "release": "T1289",
-  "built_at": "2026-11-02T04:29:35.735277+00:00",
+  "release": "T1304",
+  "stage": "0",
+  "built_at": "2026-11-02T09:17:15.308439+00:00",
   "source_head": "dcb851c69dc3ea445b6d41f06fc178c2eef6b146",
   "source_dirty": true,
-  "adapter_sha256": "23e859ff581164c8db2589a3d5e09e8ce2fc7c54310b62426c3e0b7d5f7f8a76",
+  "adapter_sha256": "0979ec8161b62a4699f8416dc618d5094507f5069f278a1a4c1a400eaab85c0a",
+  "sim_sha256": "db9046b42b293a9d2f54a4fd64a33d9da34573c9d59f834b312e7811ef711a8d",
+  "production_debug": false,
   "models": {
     "03_gardener": {
       "character.glb": "57158ae30f7347f7a4023c1e4e4584974f7ad5546111aacc2fb3107d747a8041",
@@ -27,8 +30,8 @@
     }
   },
   "bundles": {
-    "assets/index-B0lDvkFg.css": "b2f4aa3c6336c3f07cdd3cde6a724a211e30560c6a7534c4c7522f28ac26d1f8",
-    "assets/index-BIjJN9HG.js": "d9aca90b41708532bc07351ee30c11503a93eea0d7384e7b3a800f4d29b1bb65",
-    "assets/vrmCrew-Cr5z5cL1.js": "d2cfb1cae36b1a308206ce8ea5e43a95efc87a695fe1d36ac72cc573e5eda8dd"
+    "assets/index-CxO85pSd.css": "77a1d994636363f906dceb34128da3d913b2ac0bb5e2978624d225feeff3c75d",
+    "assets/index-DocaV-bx.js": "54cad3caec4e3a1ddd8737bac2a6247ef4a393767551f42d2f47e50ee2664095",
+    "assets/vrmCrew-DoNBGvJs.js": "7e373e1cdf3f8e948ef0913cc6617c972dd7be5153e518bed308f44597b8004d"
   }
 }
